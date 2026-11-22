@@ -1,0 +1,7 @@
+discord.py>=2.3.2
+aiohttp>=3.9.5
+asyncpg>=0.29.0
+python-dotenv>=1.0.1
+loguru>=0.7.2
+# Optional: If you prefer py-cord instead of discord.py, uncomment the line below and comment out discord.py above
+# py-cord>=2.5.0
